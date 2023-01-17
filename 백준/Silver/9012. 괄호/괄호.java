@@ -46,6 +46,6 @@ public class Main {
 			// if count in the end is not zero, the string is not a proper VPS: "NO".
 			if (count != 0) yesNoArr[i] = "NO";
 		}
-			for (i = 0; i < stringsArr.length; i++) System.out.println(yesNoArr[i]);
+		for (i = 0; i < stringsArr.length; i++) System.out.println(yesNoArr[i]);
 	}	
 }
